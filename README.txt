@@ -34,8 +34,9 @@ FIRST EDIT (IMPORTANT):
    Scoll down and find where it says "Email = " and "Password = " (e.g. in line 248f and 272f) and paste ur Account Information there (there is no way I could find out what you type there it is local at your computer)
    Continue and you may autologin with up to 8 accounts when you press Ctrl+L in homescreen.
 4. If you want you can edit the Hotkey lines, too. Starting at line 47 to 97. (e.g. F5 is unused when you download it)
-5. To use weaponswap go to line 101 and 105 and type the Hotkey you want to use before the two colons each.
+5. To use weaponswap go to line 101 and 105 and replace "^1" and "^2" with the hotkey you want.
    (slot = 2 means weaponslot 7 is swapped ingame and slot = 3 is slot 8 ingame)
+6. Tip: In autohotkey ^ = ctrl and + = shift
 
 HOW TO USE:
 Just put the folder somewhere and open realm.ahk with AutoHotKey and you are ready to go!
