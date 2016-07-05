@@ -63,7 +63,7 @@ clipboard = He lives and reigns and conquers the world
 goto ek
 
 F5::
-clipboard = (insert text here)
+clipboard = 
 goto ek
 
 F6::
@@ -98,11 +98,11 @@ goto ek
 clipboard = /tell mreyeball hide my guild
 goto ek
 
-^1::
+::
 slot = 2
 goto swap
 
-^2::
+::
 slot = 3
 goto swap
 
@@ -241,7 +241,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
 
-   ButtonPainapple:
+   ButtonAcc1:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -253,7 +253,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonDrWeisbrod:
+   ButtonAcc2:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -265,7 +265,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonOrothi:
+   ButtonAcc3:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -277,7 +277,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonLaen:
+   ButtonAcc4:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -289,7 +289,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonUrake:
+   ButtonAcc5:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -301,7 +301,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonIri:
+   ButtonAcc6:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -313,7 +313,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonVorv:
+   ButtonAcc7:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
@@ -325,7 +325,7 @@ else
    MsgBox, 16, Error, RotMG Client Not Found, 1
    Return
    
-   ButtonGharr:
+   ButtonAcc8:
 IfWinExist, Adobe Flash Player
 {
     WinActivate 
