@@ -30,11 +30,11 @@ Notepad++: https://notepad-plus-plus.org/
 FIRST EDIT (IMPORTANT):
 1. Rightclick realm.ahk and click "Edit with Notepad++".
 2. If you use flashplayer edit the version in line 16 or 17 to your flashplayer version.
-3. If you want to use Autologin go down to line 221ff and You will see "Acc1", "Acc2" etc.
-   Scoll down and find where it says "Email = " and "Password = " (e.g. in line 249f and 273f) and paste ur Account Information there (there is no way I could find out what you type there it is local at your computer)
+3. If you want to use Autologin go down to line 220ff and You will see "Acc1", "Acc2" etc.
+   Scoll down and find where it says "Email = " and "Password = " (e.g. in line 248f and 272f) and paste ur Account Information there (there is no way I could find out what you type there it is local at your computer)
    Continue and you may autologin with up to 8 accounts when you press Ctrl+L in homescreen.
-4. If you want you can edit the Hotkey lines, too. Starting at line 48 to 98. (e.g. F5 is unused when you download it)
-5. To use weaponswap go to line 102 and 106 and type the Hotkey you want to use before the two colons each.
+4. If you want you can edit the Hotkey lines, too. Starting at line 47 to 97. (e.g. F5 is unused when you download it)
+5. To use weaponswap go to line 101 and 105 and type the Hotkey you want to use before the two colons each.
    (slot = 2 means weaponslot 7 is swapped ingame and slot = 3 is slot 8 ingame)
 
 HOW TO USE:
