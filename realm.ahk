@@ -41,7 +41,7 @@ clipboard = /teleport %tptarget%
 goto ek
 
 ; sends rclick when ctrl+rclick is sent to get the flash context menu
-^+RButton::
+^RButton::
 Click right
 Return
 
