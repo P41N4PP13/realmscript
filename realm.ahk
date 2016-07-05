@@ -98,11 +98,11 @@ goto ek
 clipboard = /tell mreyeball hide my guild
 goto ek
 
-::
+^1::
 slot = 2
 goto swap
 
-::
+^2::
 slot = 3
 goto swap
 
