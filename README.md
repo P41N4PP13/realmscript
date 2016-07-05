@@ -39,6 +39,5 @@ FIRST EDIT (IMPORTANT):
 
 HOW TO USE:
 Just put the folder somewhere and open realm.ahk with AutoHotKey and you are ready to go!
-Have fun using macros!
-   
-
+If you are new to AutoHotKey just activate it and press e.g. F1 to F12 in game and see what happens!
+Have fun
